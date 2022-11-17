@@ -82,6 +82,8 @@ UNLICENSED
 
 @meddbriefer/cond1-debriefing-ui
 
+@meddbriefer/cond2-debriefing-ui
+
 @meddbriefer/feedback-data
 UNLICENSED
 
